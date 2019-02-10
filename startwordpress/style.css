@@ -1,0 +1,42 @@
+/*
+  Theme Name: Start Wordpress
+  Author: Matthew Yeadon
+  Description: Simple WordPress blog
+  Version: 0.0.1
+  Tags: Wordpress
+*/
+
+
+
+
+body {
+  font-size: 16px;
+  font-family: 'Montserrat',sans-serif;
+}
+h2 {
+  font-size:2.5em;
+  font-weight:100;
+}
+h3 {
+  font-size: 1.5em;
+  font-weight: 100;
+}
+
+.gray-row {
+  width: 100%;
+  padding: 2% 0% 2% 0%;
+  background-color: #f2efef;
+}
+
+.gray-row {
+  text-align: center;
+  font-weight: bold;
+}
+
+.blog-post {
+  display: inline-block;
+  width: 30%;
+  margin: 0 auto;
+  margin: 1% 0px 1% 0px;
+
+}
